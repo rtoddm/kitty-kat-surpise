@@ -23,7 +23,7 @@ This was a simple and funny project which allowed me to build a website with HTM
 
 ## My process
 
-1. I began by initializing my project as a public repository on [GitHub](https://github.com/rtoddm/kitty-kat-surpise).
+1. I began by initializing my project as a public repository on (https://github.com/rtoddm/kitty-kat-surpise).
 2. Then I configured my repository to publish my code to a web address (GitHub pages).
 3. I looked through the designs in order to plan how I'd tackle the project. This step is important to help you think through potential CSS classes to create reusable styles.
 4. However, before worrying about any styles, I structured my HTML content.
